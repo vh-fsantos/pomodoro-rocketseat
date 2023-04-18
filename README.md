@@ -8,7 +8,7 @@ This project was developed with the following technologies:
 
 ## Project
 
-move.it its an app that unite the Pomodoro technique with the accomplsihment of physical exercises to those who stand a lot of time in front of a computer.
+move.it is an app that unite the Pomodoro technique with the accomplsihment of physical exercises to those who stand a lot of time in front of a computer.
 This project was created during a Rocketseat event.
 
 ## Layout
