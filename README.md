@@ -13,7 +13,7 @@ This project was created during a Rocketseat event.
 
 ## Layout
 
-You can see the project layout through [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). Its needed to have an account at [Figma](http://figma.com/) to access.
+You can see the project layout through [this link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). Its needed to have an account at [Figma](http://figma.com/) to access.
 
 ## How to run
 
